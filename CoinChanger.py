@@ -1,25 +1,6 @@
 # Ethan Perry
 # 02/25/2022
 
-'''
-the program receieves an input name to output personalized messages
-and also gets an income value with two decimals flaoting. 
-It then first applies a randomly generated tax rate to 3 decimals
-and applies that to get the amount needed to be paid in tax.
-That amount is then put through an algorithm to yeild the proper
-amount of coins (minimum amount) needed to be paid by the inputed name. 
-There is then a table generated to cleanly display the coin breakdown
-and also a message from the king using if, elif, else.
-'''
-
-# only weird issue I cannot seem to fix is on line ____
-# where there is an indentation I cannot remove.
-
-# Honor Pledge: I have abided by the Wheaton Honor Code and 
-# all work below was performed by Ethan Perry.
-
-
-
 import math
 
 def changer(x):
